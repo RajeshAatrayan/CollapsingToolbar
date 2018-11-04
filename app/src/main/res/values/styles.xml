@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#E91E63</item>
+        <item name="colorPrimaryDark">#C2185B</item>
+        <item name="colorAccent">#7C4DFF</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+       <item name="android:windowNoTitle">true</item>
+
+    </style>
+    <!--To make remove status bar and fill the image in status bar too-->
+    <!--android:windowDrawsSystemBarBackgrounds true-->
+    <!--android:statusBarColor transparent-->
+
+</resources>
